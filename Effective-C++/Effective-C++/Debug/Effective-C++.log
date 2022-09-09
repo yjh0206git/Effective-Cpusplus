@@ -1,0 +1,3 @@
+﻿  Smart_ptr.cpp
+Smart_ptr.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/INCREMENTAL:NO”规范)
+  Effective-C++.vcxproj -> C:\Users\hp\Desktop\Effective C++\Effective-C++\Debug\Effective-C++.exe
